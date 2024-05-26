@@ -1,6 +1,20 @@
-# ebook
+# study
 
-**作者列表**
+
+
+演讲
+
+![](https://vin.dynalias.com/bookshelf/author/aricerul.gif)
+
+| 作者   | 图书                                                            | 简介               | 来源 |
+| ------ | --------------------------------------------------------------- | ------------------ | ---- |
+| 卢战卡 | [《365堂说话之道 教你学说话口才训练》](https://lzk365.wangbin.run) | 教你学说话口才训练 | 网络 |
+
+
+
+
+
+小说
 
 ![](https://vin.dynalias.com/bookshelf/author/aricerul.gif)
 
